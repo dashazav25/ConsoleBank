@@ -1,0 +1,8 @@
+C:\User\344\Завроцкая\ConsoleBank\bin\Debug\ConsoleBank.exe.config
+C:\User\344\Завроцкая\ConsoleBank\bin\Debug\ConsoleBank.exe
+C:\User\344\Завроцкая\ConsoleBank\bin\Debug\ConsoleBank.pdb
+C:\User\344\Завроцкая\ConsoleBank\obj\Debug\ConsoleBank.csproj.AssemblyReference.cache
+C:\User\344\Завроцкая\ConsoleBank\obj\Debug\ConsoleBank.csproj.SuggestedBindingRedirects.cache
+C:\User\344\Завроцкая\ConsoleBank\obj\Debug\ConsoleBank.csproj.CoreCompileInputs.cache
+C:\User\344\Завроцкая\ConsoleBank\obj\Debug\ConsoleBank.exe
+C:\User\344\Завроцкая\ConsoleBank\obj\Debug\ConsoleBank.pdb
